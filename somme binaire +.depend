@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700491616 source:c:\users\user\desktop\somme binaire +\main.c
+	<stdio.h>
+	<stdlib.h>
+
